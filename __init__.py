@@ -1,0 +1,1 @@
+from .vkama import VK
