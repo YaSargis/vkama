@@ -1,0 +1,7 @@
+README.md
+setup.py
+vkama.egg-info/PKG-INFO
+vkama.egg-info/SOURCES.txt
+vkama.egg-info/dependency_links.txt
+vkama.egg-info/requires.txt
+vkama.egg-info/top_level.txt

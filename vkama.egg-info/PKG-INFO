@@ -1,3 +1,18 @@
+Metadata-Version: 2.1
+Name: vkama
+Version: 0.1.0
+Summary: Minimal Python library for VK API (sync)
+Home-page: https://github.com/yasargis/vkama
+Author: Sargis Kazaryan
+Author-email: yujniybro@example.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Internet :: WWW/HTTP :: Dynamic Content
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: requests>=2.28.0
+
 # VKama
 
 Минимальная **Python библиотека для работы с VK API**.
@@ -16,17 +31,15 @@ VKama — это лёгкий sync-клиент для основных мето
 
 # Установка
 
-Установить через pip:
+Скопируйте библиотеку в проект:
 
-```bash
-pip install vkama
+```
+vkama/
+ ├─ __init__.py
+ └─ vkama.py
 ```
 
-Или установить локально из исходников:
-
-```bash
-python -m pip install .
-```
+или импортируйте из репозитория.
 
 ---
 
